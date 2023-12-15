@@ -1,1 +1,2 @@
 # QRCodeGeneratorPy
+A simple yet powerful Python utility for generating QR codes. With just a few lines of code, QRCodeGeneratorPy allows users to convert any piece of text or URL into a scannable QR code. This tool is perfect for creating QR codes for websites, virtual business cards, event tickets, Wi-Fi passwords, and more. The generated QR code is saved as an image file, making it easy to print, share, or embed in digital content. QRCodeGeneratorPy is user-friendly and adaptable, suitable for both personal and professional use."
